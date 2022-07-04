@@ -7,6 +7,6 @@ Testing Spring Data JPA implementation with H2 Database
 
 - https://www.baeldung.com/spring-boot-sql-import-files#spring-jdbc-support
 - https://www.baeldung.com/spring-boot-data-sql-and-schema-sql
-
+- https://www.baeldung.com/java-dao-vs-repository#:~:text=DAO%20is%20an%20abstraction%20of,closer%20to%20the%20Domain%20objects
 
 - Read csv : https://mkyong.com/java/how-to-read-and-parse-csv-file-in-java/
